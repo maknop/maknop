@@ -8,6 +8,16 @@
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: https://twitter.com/misterknop
+[2]: https://www.linkedin.com/in/matthewaknop/
+
+
+
 <!--
 **maknop/maknop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
