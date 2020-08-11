@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=maknop&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&layout=compacthide=vim](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
