@@ -1,9 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=maknop&theme=dark&show_icons=true)
+## About
+- 🔭 I'm currently working on a Dominion deck builder game written for the command line and a Covid-19 confirmed case tracker.
+- 🌱 I’m currently learning the Pandas library in python and developing my skills for REST API design with Expressjs.
+- 📫 How to reach me: knopmatthew93@gmail.com
+- 😄 Pronouns: he/him/his
+
+## Github Stats
+![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=maknop&show_icons=true&hide=prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&hide=html,vim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -12,12 +19,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 🔭 I'm currently working on a Dominion deck builder game written for the command line and a Covid-19 confirmed case tracker.
-- 🌱 I’m currently learning the Pandas library in python and developing my skills for REST API design with Expressjs.
-- 📫 How to reach me: knopmatthew93@gmail.com
-- 😄 Pronouns: he/him/his
-
-
+## Social
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
