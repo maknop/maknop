@@ -6,11 +6,11 @@
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
-## Github Stats
+## 📈 Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&hide=html,vim%20script&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=maknop&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&hide=html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## Social
+## 💻 Social
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
