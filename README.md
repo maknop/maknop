@@ -6,6 +6,9 @@
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
+## Blog & Writing
+Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but haven't started yet. Stay tuned!
+
 ## 📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&hide=html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=maknop&show_icons=true)
