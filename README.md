@@ -6,7 +6,7 @@
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
-## Blog & Writing
+## ✍️ Blog & Writing
 Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but haven't started yet. Stay tuned!
 
 ## 📈 Github Stats
