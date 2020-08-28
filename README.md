@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 📝 About
-- 🔭 I'm currently working on a Dominion deck builder game written for the command line and a Covid-19 confirmed case tracker.
+- 🔭 I'm currently working on a Dominion deck builder game written for the command line and a Covid-19 confirmed case tracker. Additionally, I am apart of a group   of four other students developing a Twitter clone for CS350 at the University of Northern Colorado.
 - 🌱 I’m currently learning the Pandas library in python and developing my skills for REST API design with Expressjs.
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
