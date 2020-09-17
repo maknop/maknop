@@ -9,6 +9,9 @@
 ## ✍️ Blog & Writing
 Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but haven't started yet. Stay tuned!
 
+## :pencil: Resume
+You can find it [here](https://github.com/maknop/knop-resume/blob/master/knop_resume.png).  
+
 ## 📈 Github Stats
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&hide=html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
