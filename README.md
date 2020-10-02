@@ -10,7 +10,7 @@
 Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but haven't started yet. Stay tuned!
 
 ## :pencil: Resume
-You can find it [here](https://github.com/maknop/knop-resume/blob/master/knop_resume.png).  
+You can find it [here](https://github.com/maknop/knop-resume/blob/master/resume_knop.png).  
 
 ## 📈 Github Stats
 <!--
