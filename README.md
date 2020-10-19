@@ -2,7 +2,7 @@
 
 ## 📝 About
 - 🔭 I'm currently working on a Covid-19 confirmed case tracker. Additionally, I am apart of a group   of three other students developing a Twitter clone for CS350 at the University of Northern Colorado.
-- 🌱 I’m currently learning the Pandas library in python and developing my skills for REST API design with Expressjs.
+- 🌱 I’m currently learning the Pandas library in python and developing my skills for REST API design with Python's Django framework.
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
