@@ -12,8 +12,8 @@ Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but hav
 ## :pencil: Resume
 You can find it [here](https://github.com/maknop/knop-resume/blob/master/resume_knop.png).  
 
-## 📈 Github Stats
 <!--
+## 📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&hide=html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=maknop&show_icons=true)
 -->
