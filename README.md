@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## 📝 About
-- 🔭 I'm currently working on a Covid-19 confirmed case tracker. Additionally, I am apart of a group   of four other students developing a Twitter clone for CS350 at the University of Northern Colorado.
-- 🌱 I’m currently learning the React library in JavaScript and developing my skills for REST API design with Python's Django framework.
+- 🔭 I'm currently working on a Covid-19 confirmed case tracker. Additionally, I am apart of a group of four other students developing a Twitter clone for CS350 at the University of Northern Colorado.
+- 🌱 I’m currently learning the React and developing my skills for REST API design with Python's Django framework and Expressjs.
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
