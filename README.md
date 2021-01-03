@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 📝 About
-- 🔭 I'm currently working on a Covid-19 confirmed case tracker. Additionally, I am apart of a group of four other students developing a Twitter clone for CS350 at the University of Northern Colorado.
+- 🔭 I'm currently working on an application that will display the previous days Covid-19 U.S. confirmed case data while continuing to learn ReactJS.
 - 🌱 I’m currently learning the React and developing my skills for REST API design with Python's Django framework and Expressjs.
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
@@ -10,7 +10,7 @@
 Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but haven't started yet. Stay tuned!
 
 ## :pencil: Resume
-You can find it [here](https://github.com/maknop/knop-resume/blob/master/resume_knop.png).  
+You can find my personal website with a little about me and my resume [here](https://matthewknop.com).  
 
 <!--
 ## 📈 Github Stats
