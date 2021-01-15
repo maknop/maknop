@@ -2,7 +2,7 @@
 
 ## 📝 About
 - 🔭 I'm currently working on an application that will display the previous days Covid-19 U.S. confirmed case data while continuing to learn ReactJS.
-- 🌱 I’m currently learning the React and developing my skills for REST API design with Python's Django framework and Expressjs.
+- 🌱 I’m currently learning the JavaScript library React and developing my skills for REST API design with Python's Django framework.
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
