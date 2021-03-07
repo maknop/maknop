@@ -1,8 +1,9 @@
 # Hi there 👋
 
 ## 📝 About
-- 🔭 I'm currently working on an application that will display the previous days Covid-19 U.S. confirmed case data while continuing to learn ReactJS.
+<!-- - 🔭 I'm currently working on an application that will display the previous days Covid-19 U.S. confirmed case data while continuing to learn ReactJS.
 - 🌱 I’m currently learning the JavaScript library React and developing my skills for REST API design with Python's Django framework.
+-->
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
@@ -10,7 +11,9 @@
 Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but haven't started yet. Stay tuned!
 
 ## :pencil: Resume
-You can find my personal website with a little about me and my resume [here](https://matthewknop.com).  
+You can find my personal website with a little about me and my resume [here](https://github.com/maknop/resume).  
+  
+Here is a link to my [personal website](https://matthewknop.com).
 
 <!--
 ## 📈 Github Stats
