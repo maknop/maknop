@@ -1,4 +1,4 @@
-# Hi there 👋
+# 🌎 Hello, World! 👋
 
 ## 📝 About
 <!-- - 🔭 I'm currently working on an application that will display the previous days Covid-19 U.S. confirmed case data while continuing to learn ReactJS.
