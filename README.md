@@ -1,4 +1,4 @@
-# 🌎 Hello, World! 👋
+# 👋 Hello, World! 🌎
 
 ## 📝 About
 <!-- - 🔭 I'm currently working on an application that will display the previous days Covid-19 U.S. confirmed case data while continuing to learn ReactJS.
@@ -7,15 +7,18 @@
 - 📫 How to reach me: knopmatthew93@gmail.com
 - 😄 Pronouns: he/him/his
 
-<!--
-## ✍️ Blog & Writing
-Trying to get into writing on [Medium](https://medium.com/@matthewaknop) but haven't started yet. Stay tuned!
+## :raised_hands: The things I enjoy the most are:
+- :evergreen_tree: Hiking
+- :coffee: Coffee
+- :video_game: Games
+- :headphones: Music
+- :running: Exercise
+- :computer: Coding
 
-## :pencil: Resume
-You can find my personal website with a little about me and my resume [here](https://github.com/maknop/resume).  
--->
-Here is a link to my [personal website](https://matthewknop.com).
-
+## 🧠 What I am currently learning:
+- Backend development with Node.js.
+- Diving into development with Golang.
+- Developing knowledge of DevOps.
 
 ## 📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&layout=compact&hide=html,vim%20script,scss,shell)](https://github.com/anuraghazra/github-readme-stats)
