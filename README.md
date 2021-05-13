@@ -48,6 +48,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/misterknop
 [2]: https://www.linkedin.com/in/matthewaknop/
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maknop&repo=personal-website-v2)](https://github.com/maknop/personal-website-v2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maknop&repo=dotfiles)](https://github.com/maknop/dotfiles)
 
 
 <!--
