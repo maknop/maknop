@@ -21,7 +21,7 @@
 - Developing knowledge of DevOps.
 
 ## 📈 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&layout=compact&hide=html,vim%20script,scss,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maknop&layout=compact&hide=html,vim%20script,scss,shell,tex)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=maknop&show_icons=true)
 -->
